@@ -1,5 +1,6 @@
 {
-  "name": "nextjs-app-router-with-firebase-auth",
+  "name": "to-do-app",
+  "author":"Daysi Schmadtke",
   "version": "0.1.0",
   "private": true,
   "scripts": {

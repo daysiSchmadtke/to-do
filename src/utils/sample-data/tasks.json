@@ -1,0 +1,22 @@
+{
+  "tasks": {
+    "-OKqs3ckMn2CE95JsEWV": {
+      "complete": true,
+      "description": "Study React",
+      "firebaseKey": "-OKqs3ckMn2CE95JsEWV",
+      "name": "React JS Library"
+    },
+    "-OKqs3ckMn2CE95JsEXYZ": {
+      "complete": false,
+      "description": "Create React project",
+      "firebaseKey": "-OKqs3ckMn2CE95JsEXYZ",
+      "name": "create React app"
+    },
+    "-OKqs3ckMn2CE95JsEABC": {
+      "complete": true,
+      "description": "Prepare for C#",
+      "firebaseKey": "-OKqs3ckMn2CE95JsEABC",
+      "name": "Backend"
+    }
+  }
+}
