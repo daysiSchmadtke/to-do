@@ -1,4 +1,25 @@
 body {
-  background: black;
-  color: white;
+  background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-12/241203-aoraki-missing-climbers-wc-0737-c88bbb.jpg'); /* Replace with your image URL */
+  background-size:cover; /* Ensure the image covers the entire screen */
+  background-position: center; /* Center the image */
+  background-attachment: fixed; /* Keeps the image static when scrolling */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  color: #101D42; /* Adjust text color for readability */
+}
+
+/* Button Hover Effect */
+.card button:hover {
+  background-color: #CA1551; /* Darker shade on hover */
+  transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+/* Card Hover Effect */
+/* Hover effect for card */
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+.card:hover {
+  transform: scale(1.03); /* Slight zoom on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Elevate with shadow */
 }
